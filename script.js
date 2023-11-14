@@ -21,12 +21,12 @@ document.addEventListener("DOMContentLoaded", function () {
         "https://source.unsplash.com/bqe0J0b26RQ",
     },
     {
-      name: "ben dover",
+      name: "apple clover",
       image:
         "https://source.unsplash.com/X1fKWQM-GXY",
     },
     {
-      name: "hugh janus",
+      name: "ben clover",
       image:
         "https://source.unsplash.com/kMJp7620W6U",
     },
